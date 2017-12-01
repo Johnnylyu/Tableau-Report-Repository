@@ -1,4 +1,4 @@
-## documentation-for-tableau-report 4
+## Documentation-For-Tableau-Report 4
 
 ### Group Members:
 Yue Cheng
