@@ -21,4 +21,4 @@ external reference to provide more detailed explanations about the movie. The mo
 rating based on the released movie data. Thus, we are able to build a fitted model and using it to evaluate the results.
 
 ### Tableau Workbook Online
-The online Tableau Workbook is in this site[Tableau Workbook Online](https://public.tableau.com/profile/shuwen.wang#!/vizhome/MovieAnalysisforIMDB5000/MovieAnalysis)
+The online Tableau Workbook is in this site [Tableau Workbook Online](https://public.tableau.com/profile/shuwen.wang#!/vizhome/MovieAnalysisforIMDB5000/MovieAnalysis)
