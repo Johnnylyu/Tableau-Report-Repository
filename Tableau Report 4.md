@@ -22,3 +22,6 @@ rating based on the released movie data. Thus, we are able to build a fitted mod
 
 ### Tableau Workbook Online
 The online Tableau Workbook is in this site [Tableau Workbook Online](https://public.tableau.com/profile/shuwen.wang#!/vizhome/MovieAnalysisforIMDB5000/MovieAnalysis)
+
+### Description of Tableau "Story"
+(https://user-images.githubusercontent.com/34119368/33503813-28859990-d6b3-11e7-8a93-c4db1c5aeb75.png)
