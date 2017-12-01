@@ -25,4 +25,9 @@ The online Tableau Workbook is in this site [Tableau Workbook Online](https://pu
 
 ### Description of Tableau "Story"
 ![myimage-alt-tag](https://user-images.githubusercontent.com/34119368/33503813-28859990-d6b3-11e7-8a93-c4db1c5aeb75.png)
+From score tab, We compared IMDB Score for each movie in chronological order. As we can see from the graph, we plotted a curve according to the relationship between IMDB score and Title Year. We have the peak point in 1930, which means that movies from 1930 achieved the highest average IMDB Score. As the number of movie increases every year, the IMDB score decreases gradually till 2005 and becomes stable after that. However it does not mean the movie quality is actually decreasing every year. We have more movies produced and more data sets compared with a decade ago. Some bad-quality movies dragged down the average score of IMDB, which gives us the curve we see now.
+
+![myimage-alt-tag](https://user-images.githubusercontent.com/34119368/33503837-40820ad8-d6b3-11e7-80b9-72ff987b931a.png)
+Directors are one of the reasons that one film will sell well. Highly rated movies usually have highly rated directors. The market share of the high-gross directors is shown in the following graph. As we can see, there are 27 famous directors in the graph. Steven Spielberg has the biggest part of the earnings of $4,114,233,101, following by Peter Jackson, Michal Bay and etc. The ones that have higher gross are marked with darker blue in this mosaic graph from 1 billion to 4 billion dollars gross earnings.
+
 
