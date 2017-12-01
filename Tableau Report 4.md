@@ -19,3 +19,6 @@ extent not useful since the distribution of color is extremely unbalanced with o
 meaningless to take color variable into account. The Movie IMDB link and movie title can be put outside of the dataset as an 
 external reference to provide more detailed explanations about the movie. The model we build is targeted to predict the movie 
 rating based on the released movie data. Thus, we are able to build a fitted model and using it to evaluate the results.
+
+### Tableau Workbook Online
+The online Tableau Workbook is in this site[Tableau Workbook Online](https://public.tableau.com/profile/shuwen.wang#!/vizhome/MovieAnalysisforIMDB5000/MovieAnalysis)
