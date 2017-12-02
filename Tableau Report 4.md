@@ -12,13 +12,7 @@ Nowadays, there is an increasing trend that people share their reviews towards d
 Our domain contains tremendous data from both social media users and movie itself from IMDB, including number of likes and 
 followers of the posts from directors, actors and movie homepage, the reviews of movie critics, movie title, genres, plot 
 keywords and the casting members of the movie. The reason why we choose this dataset is that it can helps us to achieve deeper 
-insights by combining ratings from registered users on IMDB with social media users on Facebook, Instagram and Twitter. 
-When analyzing data, one of the primary challenges is how to screen variables, deal with null and extreme values, 
-and make the dataset clean and reasonable. The color variable which includes two values: black-and-white and color is to some 
-extent not useful since the distribution of color is extremely unbalanced with over 98% color movies. Therefore, it is 
-meaningless to take color variable into account. The Movie IMDB link and movie title can be put outside of the dataset as an 
-external reference to provide more detailed explanations about the movie. The model we build is targeted to predict the movie 
-rating based on the released movie data. Thus, we are able to build a fitted model and using it to evaluate the results.
+insights by combining ratings from registered users on IMDB with social media users on Facebook, Instagram and Twitter. The Movie IMDB link and movie title can be put outside of the dataset as an external reference to provide more detailed explanations about the movie. The model we build is targeted to predict the movie rating based on the released movie data. Thus, we are able to build a fitted model and using it to evaluate the results.
 
 ### Tableau Workbook Online
 The completer version of online Tableau Workbook is in this site [Tableau Workbook Online](https://public.tableau.com/profile/shuwen.wang#!/vizhome/MovieAnalysisforIMDB5000/MovieAnalysis)
@@ -36,5 +30,12 @@ Directors are one of the reasons that one film will sell well. Highly rated movi
 
 From the Gross Profit Distribution, the Gross profit for each movie as well as the number of movie production for each year is booming constantly from the 1960s as the end of two World Wars and the new beginning of a peaceful era. The majority of Gross profit for each movie is mainly clustered below 200M regradless of the time but the highest Gross profit each year is increasing from 300M in 1980 to 760M in 2009. Apart from the effect of inflation, the growth in Gross profit did provide a clear information that movie industry is in a fast-developing period as a growing number of people are willing to go to the movies.
 
+![myimage-alt-tag](https://user-images.githubusercontent.com/34119368/33508618-8340bef8-d6c9-11e7-9ab3-694233bd99f6.png)
 
+The findings from pareto charts for actor analysis associated with gross profit is quite consistent with eighth law, 20% of top actors can contribute 80% of gross profit. In conclusion, from 14% to 22%, Tier-1 actors, especially protagonist, can result in higher movie profitablity with their charisma.
 
+### Challenges
+When analyzing data, one of the primary challenges is how to screen variables, deal with null and extreme values, 
+and make the dataset clean and reasonable. The color variable which includes two values: black-and-white and color is to some 
+extent not useful since the distribution of color is extremely unbalanced with over 98% color movies. Therefore, it is 
+meaningless to take color variable into account.
