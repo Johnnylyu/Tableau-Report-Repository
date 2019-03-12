@@ -8,7 +8,7 @@ Erya Ouyang
 Shuwen Wang
 
 ### Project Description
-Nowadays, there is an increasing trend that people share their reviews towards different movies on social media. By focusing on multiple variables through social media channel, we are able to generate a more accurate visualization model to best show directors messages from consumers and predict the box office. 
+Nowadays, there is an increasing trend that people on the social network share their reviews towards different movies on social media. By focusing on multiple variables through social media channel, we are able to generate a more accurate visualization model to best show directors messages from consumers and predict the box office. 
 Our domain contains tremendous data from both social media users and movie itself from IMDB, including number of likes and 
 followers of the posts from directors, actors and movie homepage, the reviews of movie critics, movie title, genres, plot 
 keywords and the casting members of the movie. The reason why we choose this dataset is that it can helps us to achieve deeper 
